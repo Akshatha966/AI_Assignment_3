@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# Ignore all __pycache__ folders recursively
+**/__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Ignore setup and working files
+setup.py
+working.py
